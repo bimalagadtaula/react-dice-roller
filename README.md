@@ -1,3 +1,4 @@
+![diceroll](https://user-images.githubusercontent.com/51883592/202843302-cfb1b070-b3e4-404a-8c9d-5b98a3d2628a.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
